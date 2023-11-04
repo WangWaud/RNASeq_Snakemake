@@ -1,3 +1,4 @@
+# 用于统计当前目录下所有由featurecounts生成的log文件，汇总并根据samplename排序
 import os
 import pandas as pd
 
